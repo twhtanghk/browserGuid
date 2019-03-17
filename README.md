@@ -1,0 +1,2 @@
+# browserGuid
+Generate browser guid
