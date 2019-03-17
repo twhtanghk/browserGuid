@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/twhtanghk/browserGuid/issues"
   },
-  "homepage": "https://github.com/twhtanghk/browserGuid#readme",
-  "devDependencies": {
-    "coffeescript": "^2.3.2"
-  }
+  "homepage": "https://github.com/twhtanghk/browserGuid#readme"
 }
